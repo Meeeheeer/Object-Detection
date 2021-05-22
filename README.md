@@ -1,2 +1,2 @@
-# Object-Detection
-Object Detection with OpenCV function cv2.cv2.matchTemplate()
+# Template-Matching
+Template Matching with OpenCV function cv2.cv2.matchTemplate()
